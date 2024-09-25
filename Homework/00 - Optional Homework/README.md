@@ -7,7 +7,8 @@ For this initial homework we will be working with a [dataset](https://github.com
 - Around *two-thirds* of homicide victims who are *males* in the *age-group of 15--34* are *black*.
 - *Women* constitue only *15 percent* of the total *homicide* victims.
 
-It's not necessary to generate visualizations for the results -- numbers should be more than enough to convince yourself that you 
+It's not necessary to generate visualizations for the results -- numbers shou
+ld be more than enough to convince yourself that you 
 were able to reproduce the results of that article.
 
 You can use this opportunity first of all to refresh your Python skills. If you are coming from another programming language
